@@ -30,3 +30,5 @@ Tools Used: Burp Suite for traffic interception.
 Keywords:
 POODLE attack, SSL 3.0, cybersecurity, block cipher padding, man-in-the-middle attack, JavaScript, Burp Suite.
 
+Project video:
+[![Project Video](http://img.youtube.com/vi/c11ijeoxa58/0.jpg)](http://www.youtube.com/watch?v=c11ijeoxa58 "Project Video")
